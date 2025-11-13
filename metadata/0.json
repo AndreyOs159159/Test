@@ -1,0 +1,15 @@
+{
+  "name": "TON NFT #0",
+  "description": "Первый NFT в коллекции",
+  "image": "https://raw.githubusercontent.com/AndreyOs159159/Test/main/images/nft_0.png",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "0"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "TON Lab 4"
+    }
+  ]
+}
