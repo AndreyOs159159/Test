@@ -1,5 +1,15 @@
 {
   "name": "Моя первая NFT",
-  "description": "Создано в рамках лабораторной работы №4",
-  "image": "https://raw.githubusercontent.com/AndreyOs159159/Test/main/images/nft_0.png"
+  "description": "ОБНОВЛЕНО: Создано в рамках лабораторной работы №4 (обновлено 14.11.2025 17:37)",
+  "image": "https://raw.githubusercontent.com/AndreyOs159159/Test/main/images/nft_0.png",
+  "attributes": [
+    {
+      "trait_type": "Тип",
+      "value": "Тестовый NFT"
+    },
+    {
+      "trait_type": "Последнее обновление",
+      "value": "2025-11-14 17:37:15"
+    }
+  ]
 }
