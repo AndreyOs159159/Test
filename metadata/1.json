@@ -1,25 +1,16 @@
 {
   "name": "Моя первая NFT #1",
-  "description": "ОБНОВЛЕНО: Лабораторная работа №4 (13.12.2025 00:03)",
+  "description": "🔄 ОБНОВЛЕНО TONSDK (13.12.2025 00:11)",
   "image": "https://raw.githubusercontent.com/AndreyOs159159/Test/main/images/nft_0.png",
   "attributes": [
     {
-      "trait_type": "Тип",
-      "value": "Тестовый NFT"
+      "trait_type": "Метод обновления",
+      "value": "TONSDK + GitHub"
     },
     {
       "trait_type": "Последнее обновление",
-      "value": "2025-12-13 00:03:27"
-    },
-    {
-      "trait_type": "TON Network",
-      "value": "mainnet"
-    },
-    {
-      "trait_type": "Metadata",
-      "value": "GitHub off-chain"
+      "value": "2025-12-13 00:11:23"
     }
   ],
-  "external_url": "https://raw.githubusercontent.com/AndreyOs159159/Test/main/metadata/1.json",
-  "animation_url": "https://raw.githubusercontent.com/AndreyOs159159/Test/main/images/nft_0.mp4"
+  "external_url": "https://raw.githubusercontent.com/AndreyOs159159/Test/main/metadata/1.json"
 }
